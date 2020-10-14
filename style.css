@@ -1,0 +1,185 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather";
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  height: 0px;
+  width: 10%;
+  border-color: lightcoral;
+  border-width: 5px;
+  margin: 100px auto;
+}
+.btn {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+h1 {
+  margin-top: 0px;
+  font-family: "Sacramento";
+  font-size: 5rem;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Montserrat";
+  color: #66bfbf;
+  padding-bottom: 10px;
+}
+h3 {
+  font-family: "Montserrat";
+}
+.topcontainer {
+  position: relative;
+  padding-top: 50px;
+  background-image: linear-gradient(
+    to top,
+    #dbdcd7 0%,
+    #dddcd7 24%,
+    #e2c9cc 30%,
+    #e7627d 46%,
+    #b8235a 59%,
+    #801357 71%,
+    #3d1635 84%,
+    #1c1a27 100%
+  );
+}
+.pro {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.program {
+  position: absolute;
+  right: 750px;
+}
+.code {
+  position: relative;
+  bottom: 0px;
+  left: 700px;
+}
+.stars {
+  position: relative;
+  left: 600px;
+  top: 90px;
+}
+.hr1 {
+  position: relative;
+  border-style: none;
+  border-top: dotted;
+  height: 0px;
+  width: 36%;
+  border-color: indianred;
+  border-width: 5px;
+  top: 150px;
+}
+.eye {
+  position: relative;
+  top: 150px;
+  left: 10px;
+}
+.draw-eye {
+  position: relative;
+  top: 150px;
+  left: 300px;
+  left: 160px;
+}
+.draw-stars {
+  position: relative;
+  top: 145px;
+  right: 470px;
+}
+.hr2 {
+  position: relative;
+  top: 70px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 100px 0 20px;
+  position: relative;
+  top: 180px;
+}
+.contact-me {
+  position: relative;
+  top: 90px;
+}
+.student {
+  position: relative;
+  top: -50px;
+  right: 20px;
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+a {
+  color: #11999e;
+}
+.eye {
+  width: 30%;
+  float: right;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -webkit-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  height: 0;
+  line-height: 0;
+  color: #ffffff;
+  font-family: Arial;
+  width: 106px;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 40px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  border: solid #337fed 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #337fed 1px;
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -webkit-gradient(to bottom, #30e3cb, #2bc4ad);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+a {
+  color: #11999e;
+  font-family: "Monserrat";
+  margin: 10px 20px;
+  text-decoration: underline;
+}
+a:hover {
+  color: white;
+}
+.copyright {
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px;
+}
